@@ -9,3 +9,4 @@ nebfkwjkhjbds
 Make a change to make the build start
 Trigger the Build Website pipe line
 Tigger all the 3 pipelines
+Test all
